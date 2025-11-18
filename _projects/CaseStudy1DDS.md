@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Case Study : Attrition Analysis
+title: Attrition Analysis Case Study
 description: This project analyzes attrition of employees and the factors that may have led to attriton at a certain company.
 img: assets/img/attrition.png
 importance: 1 
