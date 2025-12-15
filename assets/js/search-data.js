@@ -394,6 +394,11 @@ ninja.data = [{
           description: "This project analyzes attrition of employees and the factors that may have led to attriton at a certain company.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CaseStudy1DDS/";
+            },},{id: "projects-abalone-analysis-case-study",
+          title: 'Abalone Analysis Case Study',
+          description: "This project analyzes abalones using exploratory analysis and predictive modeling.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/abalone_project2/";
             },},{
         id: 'social-cv',
         title: 'CV',
